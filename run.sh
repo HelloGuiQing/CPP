@@ -1,0 +1,1 @@
+rm -rf ./CPP && cd build && rm -rf ./* && cmake .. && make -j12 && cd .. && ./CPP
