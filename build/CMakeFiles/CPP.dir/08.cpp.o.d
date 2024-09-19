@@ -1,4 +1,4 @@
-CMakeFiles/CPP.dir/07.cpp.o: /home/parallels/Desktop/CPP/07.cpp \
+CMakeFiles/CPP.dir/08.cpp.o: /home/parallels/Desktop/CPP/08.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/aarch64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/11/bits/os_defines.h \
