@@ -1,0 +1,3 @@
+/home/parallels/Desktop/CPP/10/build/CMakeFiles/10.dir
+/home/parallels/Desktop/CPP/10/build/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/CPP/10/build/CMakeFiles/rebuild_cache.dir
