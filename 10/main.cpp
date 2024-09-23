@@ -1,3 +1,4 @@
+#include <iostream>
 #include "swap.h"
 /*函数分文件编写*/
 /*
@@ -16,6 +17,9 @@ int main(int argc, char** argv)
     int b = 20;
 
     swap(a, b);
+
+    std::cout << "a = " << a << std::endl;
+    std::cout << "b = " << b << std::endl;
 
     return 0;
 }
