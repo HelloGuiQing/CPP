@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     std::cout << "*p = " << *p << std::endl;
 
     // 为什么说p是野指针？
-    // 因为内存空间0x1100没有定义。
+    // 因为内存空间0x1100没有被申请，不具备访问权限。
 
     return 0;
 }
