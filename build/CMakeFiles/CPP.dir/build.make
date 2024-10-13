@@ -69,28 +69,28 @@ include CMakeFiles/CPP.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPP.dir/flags.make
 
-CMakeFiles/CPP.dir/17.cpp.o: CMakeFiles/CPP.dir/flags.make
-CMakeFiles/CPP.dir/17.cpp.o: ../17.cpp
-CMakeFiles/CPP.dir/17.cpp.o: CMakeFiles/CPP.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/parallels/Desktop/CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP.dir/17.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP.dir/17.cpp.o -MF CMakeFiles/CPP.dir/17.cpp.o.d -o CMakeFiles/CPP.dir/17.cpp.o -c /home/parallels/Desktop/CPP/17.cpp
+CMakeFiles/CPP.dir/18.cpp.o: CMakeFiles/CPP.dir/flags.make
+CMakeFiles/CPP.dir/18.cpp.o: ../18.cpp
+CMakeFiles/CPP.dir/18.cpp.o: CMakeFiles/CPP.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/parallels/Desktop/CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP.dir/18.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CPP.dir/18.cpp.o -MF CMakeFiles/CPP.dir/18.cpp.o.d -o CMakeFiles/CPP.dir/18.cpp.o -c /home/parallels/Desktop/CPP/18.cpp
 
-CMakeFiles/CPP.dir/17.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/17.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/parallels/Desktop/CPP/17.cpp > CMakeFiles/CPP.dir/17.cpp.i
+CMakeFiles/CPP.dir/18.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/18.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/parallels/Desktop/CPP/18.cpp > CMakeFiles/CPP.dir/18.cpp.i
 
-CMakeFiles/CPP.dir/17.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/17.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/parallels/Desktop/CPP/17.cpp -o CMakeFiles/CPP.dir/17.cpp.s
+CMakeFiles/CPP.dir/18.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/18.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/parallels/Desktop/CPP/18.cpp -o CMakeFiles/CPP.dir/18.cpp.s
 
 # Object files for target CPP
 CPP_OBJECTS = \
-"CMakeFiles/CPP.dir/17.cpp.o"
+"CMakeFiles/CPP.dir/18.cpp.o"
 
 # External object files for target CPP
 CPP_EXTERNAL_OBJECTS =
 
-../CPP: CMakeFiles/CPP.dir/17.cpp.o
+../CPP: CMakeFiles/CPP.dir/18.cpp.o
 ../CPP: CMakeFiles/CPP.dir/build.make
 ../CPP: CMakeFiles/CPP.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/parallels/Desktop/CPP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../CPP"
