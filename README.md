@@ -1,2 +1,1 @@
-# CPP
-没事写点cpp玩
+study C++ hard
