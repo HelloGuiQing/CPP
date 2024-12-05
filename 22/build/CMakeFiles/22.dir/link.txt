@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/22.dir/main.cpp.o CMakeFiles/22.dir/swap.cpp.o -o ../22 
