@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/parallels/Desktop/CPP/25.cpp" "CMakeFiles/CPP.dir/25.cpp.o" "gcc" "CMakeFiles/CPP.dir/25.cpp.o.d"
+  "/home/parallels/Desktop/CPP/26.cpp" "CMakeFiles/CPP.dir/26.cpp.o" "gcc" "CMakeFiles/CPP.dir/26.cpp.o.d"
   )
 
 # Targets to which this target links.
